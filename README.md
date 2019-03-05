@@ -5,6 +5,7 @@ This repository is devoted to share data related to the Shell Eco-marathon __Aut
 - [Datasets](#datasets)
 - [Simulations](#simulations)
 - [Algorithms](#algorithms)
+- [Videos](#videos)
 - [Papers](#papers)
 
 ## Datasets
@@ -39,6 +40,16 @@ This repository is devoted to share data related to the Shell Eco-marathon __Aut
 ## Algorithms
 
 - Algorithms will be available later.
+
+## Videos
+
+Visit [youtube.com/szenergyteam](https://www.youtube.com/szenergyteam) for more videos, and subscribe if you wish ;)
+
+| Description  | Link  | Image  |
+|-|:-:|:-:|
+| Visualization of rosbag LIDAR data  | [youtu.be/Y2d54KxOrNI](https://www.youtube.com/watch?v=Y2d54KxOrNI)  | ![vl](img/vid-lidar-data-small.png)  |
+| Explanatory video about the autonomous model vehicle (2018)  | [youtu.be/zWccR52v7JU](https://www.youtube.com/watch?v=zWccR52v7JU)  | ![vl](img/vid-model-2018-small.png)  |
+
 
 ## Papers
 
