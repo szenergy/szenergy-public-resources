@@ -43,7 +43,7 @@ This repository is devoted to share data related to the Shell Eco-marathon __Aut
 
 ## Videos
 
-Visit [youtube.com/szenergyteam](https://www.youtube.com/szenergyteam) for more videos, and subscribe if you wish ;)
+Visit [youtube.com/szenergyteam](https://www.youtube.com/szenergyteam) for more videos and subscribe if you wish ;)
 
 | Description  | Link  | Image  |
 |-|:-:|:-:|
