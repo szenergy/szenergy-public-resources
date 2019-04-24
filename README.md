@@ -2,7 +2,7 @@
 This repository is devoted to share data related to the Shell Eco-marathon __Autonomous__ Urban Concept (AUC) challange. 
 
 #### Table of contents:
-- [Datasets](#datasets)
+- [Datasets](#datasets) to download
 - [Simulations](#simulations)
 - [Algorithms](#algorithms)
 - [Videos](#videos)
@@ -12,7 +12,8 @@ This repository is devoted to share data related to the Shell Eco-marathon __Aut
 
 ![img](img/dataset-example-small.png)
 
-- The data is available: [www.sze.hu/~herno/PublicDataAutonomous](http://www.sze.hu/~herno/PublicDataAutonomous/)
+- The data is available: 
+#  [www.sze.hu/~herno/PublicDataAutonomous](http://www.sze.hu/~herno/PublicDataAutonomous/)
 
 - The log data is in `.bag` format, the standard logging format for ROS and it can be also imported to MATLAB. The postprocessed 3d pointcloud data is in `.pcd` (Point Cloud Data) file format, it is a common format used inside Point Cloud Library (PCL). Also this can be imported easily to MATLAB. 
 
