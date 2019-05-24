@@ -51,6 +51,7 @@ Visit [youtube.com/szenergyteam](https://www.youtube.com/szenergyteam) for more 
 | Visualization of rosbag LIDAR data  | [youtu.be/Y2d54KxOrNI](https://www.youtube.com/watch?v=Y2d54KxOrNI)  | ![vl](img/vid-lidar-data-small.png)  |
 | Pointcloud of the Széchenyi Campus (Győr, Hungary)  | [youtu.be/kTf-VvokQH8](https://www.youtube.com/watch?v=kTf-VvokQH8)  | ![vl](img/pointcloud-small.png) |
 | Explanatory video about the autonomous model vehicle (2018)  | [youtu.be/zWccR52v7JU](https://www.youtube.com/watch?v=zWccR52v7JU)  | ![vl](img/vid-model-2018-small.png)  |
+| Autonomous obstacle avoidance with Nissan Leaf  | [youtu.be/inBcf-J6LSM](https://www.youtube.com/watch?v=inBcf-J6LSM)  | ![vl](img/vid-leaf01-small.png)  |
 
 
 ## Papers
