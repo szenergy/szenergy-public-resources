@@ -41,6 +41,8 @@ This repository is devoted to share data related to the Shell Eco-marathon __Aut
 ## Algorithms
 
 - We contributed to the popular PythonRobotics repository (by Atsushi Sakai) [github.com/AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics/). Our example shows how to convert a 2D range measurement (e.g. LIDAR measurement) to occupancy grid map.
+- Trajectory following approaches written in C++ with ROS compatibility: [multi goal pure-pursuit](https://github.com/szenergy/szenergy-path-tracking)
+
 
 ## Videos
 
