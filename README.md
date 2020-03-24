@@ -8,12 +8,12 @@ This repository is devoted to share data related to the Shell Eco-marathon __Aut
 - [Videos](#videos)
 - [Papers](#papers)
 
-## Datasets
-
 ![img](img/dataset-example-small.png)
 
+## Datasets
+
 - The data is available: 
-#  [www.sze.hu/~herno/PublicDataAutonomous](http://www.sze.hu/~herno/PublicDataAutonomous/)
+  ### [www.sze.hu/~herno/PublicDataAutonomous](http://www.sze.hu/~herno/PublicDataAutonomous/)
 
 - The log data is in `.bag` format, the standard logging format for ROS and it can be also imported to MATLAB. The postprocessed 3d pointcloud data is in `.pcd` (Point Cloud Data) file format, it is a common format used inside Point Cloud Library (PCL). Also this can be imported easily to MATLAB. 
 
@@ -38,10 +38,11 @@ This repository is devoted to share data related to the Shell Eco-marathon __Aut
 
 - In this section Gazebo and V-REP simulations will be available.
 
-## Algorithms
+## Algorithms and utilities
 
 - We contributed to the popular PythonRobotics repository (by Atsushi Sakai) [github.com/AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics/). Our example shows how to convert a 2D range measurement (e.g. LIDAR measurement) to occupancy grid map.
 - Trajectory following approaches written in C++ with ROS compatibility: [multi goal pure-pursuit](https://github.com/szenergy/szenergy-path-tracking)
+- TF publisher from GPS in ROS: [github.com/szenergy/szenergy-utility-programs/tree/master/gps_tf_publisher](https://github.com/szenergy/szenergy-utility-programs/tree/master/gps_tf_publisher)
 
 
 ## Videos
@@ -59,4 +60,6 @@ Visit [youtube.com/szenergyteam](https://www.youtube.com/szenergyteam) for more 
 
 ## Papers
 
-- Papers will be available later.
+- [Towards System-Level Testing with Coverage Guarantees for Autonomous Vehicles](https://ieeexplore.ieee.org/document/8906897) - *István Majzik; Oszkár Semeráth; Csaba Hajdu; Kristóf Marussy; Zoltán Szatmári; Zoltán Micskei; András Vörös; Aren A. Babikian; Dániel Varró* - ACM/IEEE 22nd International Conference on Model Driven Engineering Languages and Systems (MODELS) `2019`, Munich, Germany
+- [Range Sensor-based Occupancy Grid Mapping with Signatures](https://ieeexplore.ieee.org/document/8765684) - *Ernő Horváth; Csaba Hajdu; Claudiu Radu; Áron Ballagi* - 20th International Carpathian Control Conference (ICCC), `2019`, Krakow-Wieliczka, Poland
+- Novel Pure-Pursuit Trajectory Following Approaches and their Practical Applications - *Ernő Horváth, Csaba Hajdu and Peter Kőrös* - 10th IEEE International Conference on InfoCommunications `2019`, Naples, Italy
