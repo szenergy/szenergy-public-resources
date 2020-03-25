@@ -1,7 +1,7 @@
 repositories:
   szenergy-common:
     type: git
-    url: https://github.com/horverno/szenergy-common.git
+    url: https://github.com/szenergy/szenergy-common.git
     version: master
   szenergy-gazebo:
     type: git
