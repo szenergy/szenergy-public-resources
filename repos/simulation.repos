@@ -1,0 +1,13 @@
+repositories:
+  szenergy-common:
+    type: git
+    url: https://github.com/horverno/szenergy-common.git
+    version: master
+  szenergy-gazebo:
+    type: git
+    url: https://github.com/horverno/szenergy-gazebo.git
+    version: master
+  hotaru-planner:
+    type: git
+    url: https://github.com/kyberszittya/hotaru_planner.git
+    version: master
