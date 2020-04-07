@@ -3,6 +3,7 @@ This repository is devoted to share data related to the Shell Eco-marathon __Aut
 
 #### Table of contents:
 - [Datasets](#datasets) to download
+- [Sensors](#sensors)
 - [Simulations](#simulations)
 - [Algorithms](#algorithms)
 - [Videos](#videos)
@@ -17,22 +18,11 @@ This repository is devoted to share data related to the Shell Eco-marathon __Aut
 
 - The log data is in `.bag` format, the standard logging format for ROS and it can be also imported to MATLAB. The postprocessed 3d pointcloud data is in `.pcd` (Point Cloud Data) file format, it is a common format used inside Point Cloud Library (PCL). Also this can be imported easily to MATLAB. 
 
-- The different rosbag files contain different topics, but the most important topics of the rosbag files are:
+## Sensors
 
-  - `/gps/odom`: position in xyz and orientation xyzw (message type: `nav_msgs/Odometry`)
-  - `/gps/status`: the sum of all visible satelites (message type: `sensor_msgs/NavSatStatus`)
-  - `/gps/kvhstatus`: sum of all kvh gps error, so 0 is means no errors (message type: `std_msgs/Int8`)
-  - `/gps/fix`: timestamp, latitude, longitude, altitude (message type: `sensor_msgs/NavSatFix`)
-  - `/gps/utmzone`: the utm zone, it should be `33T` in Hungary (message type: `std_msgs/String`)
-  - `/gps/current_pose`: the current pose (message type: `geometry_msgs/PoseStamped`)
-  - `/velodyne_points`: the point cloud of the Velodyne Puck VLP16 LIDAR (message type: `sensor_msgs/PointCloud2`)
-  - `/leaf/current_velocity`: the current velocity from CAN (message type: ` geometry_msgs/TwistStamped`)
-  - `/leaf/is_autonomous`: weather it is autonomous (message type: `std_msgs/Bool`)
-  - `/leaf/throttle_pos`: percentage of the throttle (message type: `std_msgs/Float64`)
-  - `/lane_waypoints_array`: lane waypoints from autoware (message type: `autoware_msgs/LaneArray`)
-  - `/global_waypoints_mark`: autoware global waypoints (message type: `visualization_msgs/MarkerArray`)
-  - `/local_waypoints_mark`: autoware local waypoints (message type: `visualization_msgs/MarkerArray`)
-  - `/camera_image`: the camera image (message type: `sensor_msgs/CompressedImage`)
+During the project several sensor constellations were tested. The latest is visible in the following image. In the top the research-purposed Nissan Leaf, at the bottom the education-purposed Szenergy vehicle is illustrated. This is the current version of the vehicles.
+
+![img](img/vehicle-sensors.png)
 
 ## Simulations
 
