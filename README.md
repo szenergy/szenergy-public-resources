@@ -47,6 +47,7 @@ Follow [this link](https://github.com/search?q=topic%3Adriver+fork%3Atrue+org%3A
 - We contributed to the popular PythonRobotics repository (by Atsushi Sakai) [github.com/AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics/). Our example shows how to convert a 2D range measurement (e.g. LIDAR measurement) to occupancy grid map.
 - Trajectory following approaches written in C++ with ROS compatibility: [multi goal pure-pursuit](https://github.com/szenergy/szenergy-path-tracking)
 - TF publisher from GPS in ROS: [github.com/szenergy/szenergy-utility-programs/tree/master/gps_tf_publisher](https://github.com/szenergy/szenergy-utility-programs/tree/master/gps_tf_publisher)
+- Rosbag scripts: [github.com/szenergy/szenergy-utility-programs/tree/master/bag_scripts](https://github.com/szenergy/szenergy-utility-programs/tree/master/bag_scripts)
 
 
 ## Videos
