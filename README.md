@@ -3,7 +3,7 @@ This repository is devoted to share data related to the Shell Eco-marathon __Aut
 
 #### Table of contents:
 - [Datasets](#datasets) to download
-- [Sensors](#sensors)
+- [Hardware](#hardware)
 - [Simulations](#simulations)
 - [Algorithms](#algorithms)
 - [Videos](#videos)
@@ -18,11 +18,25 @@ This repository is devoted to share data related to the Shell Eco-marathon __Aut
 
 - The log data is in `.bag` format, the standard logging format for ROS and it can be also imported to MATLAB. The postprocessed 3d pointcloud data is in `.pcd` (Point Cloud Data) file format, it is a common format used inside Point Cloud Library (PCL). Also this can be imported easily to MATLAB. 
 
-## Sensors
+## Hardware
 
-During the project several sensor constellations were tested. The latest is visible in the following image. In the top the research-purposed Nissan Leaf, at the bottom the education-purposed Szenergy vehicle is illustrated. This is the current version of the vehicles.
+During the project several sensor constellations were tested. [This link](https://github.com/search?q=topic%3Adriver+fork%3Atrue+org%3Aszenergy&type=Repositories) contains the public repositories shared by Szenergy. The latest sensor constellation is visible in the following image. In the top the research-purposed Nissan Leaf, at the bottom the education-purposed Szenergy vehicle is illustrated. This is the current version of the vehicles. 
 
 ![img](img/vehicle-sensors.png)
+
+Follow [this link](https://github.com/search?q=topic%3Adriver+fork%3Atrue+org%3Aszenergy&type=Repositories) to our public drivers.
+
+| Image | Type | Device | External link |
+| --- | --- | --- | --- |
+| ![img](img/sens-duro-150px.png) | GPS | SwiftNav Duro Inertial | [github.com/szenergy/duro_gps_driver](https://github.com/szenergy/duro_gps_driver) | 
+| ![img](img/sens-nova-150px.png) | GPS | NovAtel PW7720E1-DDD-RZN-TBE-P1 | [github.com/szenergy/novatel_gps_driver](https://github.com/szenergy/novatel_gps_driver) |
+| ![img](img/sens-kvhg-150px.png) | GPS | KVH Geo Fog 3D | [github.com/szenergy/kvh_gps_driver](https://github.com/szenergy/kvh_gps_driver) |
+| ![img](img/sens-velo-150px.png) | LIDAR | Velodyne VLP16 Puck | [github.com/szenergy/nissan_leaf_ros](https://github.com/szenergy/nissan_leaf_ros) |
+| ![img](img/sens-oust-150px.png) | LIDAR | Ouster OS1-64, OS1-128  | [github.com/szenergy/ouster_example](https://github.com/szenergy/ouster_example) |
+| ![img](img/sens-sick-150px.png) | LIDAR | Sick LMS111  | [github.com/clearpathrobotics/lms1xx](https://github.com/clearpathrobotics/lms1xx) | 
+| ![img](img/sens-zed1-150px.png) | Camera | Stereolabs ZED | [github.com/stereolabs/zed-ros-wrapper](https://github.com/stereolabs/zed-ros-wrapper) | 
+| ![img](img/sens-cont-150px.png) | Radar | Continental ARS 408 |  
+
 
 ## Simulations
 
