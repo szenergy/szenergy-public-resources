@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 170.1 170.1" style="enable-background:new 0 0 170.1 170.1;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;fill:#FFFFFF;}
+	.st2{display:inline;fill:#A0A0A0;}
+	.st3{fill:#1B2743;}
+	.st4{fill:#4AADC6;}
+	.st5{opacity:0.6;fill:#FFFFFF;}
+	.st6{fill:#FFFFFF;}
+	.st7{fill:none;stroke:#1B2743;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st8{display:none;fill:none;stroke:#000000;stroke-miterlimit:10;}
+</style>
+<g id="bg" class="st0">
+	<rect x="-375.8" y="-22.2" class="st1" width="926" height="547.7"/>
+	<rect x="-379.7" y="-20.6" class="st2" width="922.5" height="385.5"/>
+</g>
+<g id="alap">
+</g>
+<g id="sens" class="st0">
+</g>
+<g id="világosítás">
+</g>
+<g id="novatel">
+</g>
+<g id="negyz">
+	<rect x="1.5" y="1.1" class="st8" width="168.7" height="168.7"/>
+</g>
+<g id="sick">
+	<path class="st6" d="M133.8,125.3L133.8,125.3c0-0.2,0-0.4-0.1-0.6V68.3c0-4.4-2.3-8.6-6.6-12.1l3.4-6.2c1.2-1.7,1.8-3.6,1.8-5.5
+		V29.8c0-0.4-0.1-0.9-0.3-1.3c-2.2-8.9-17.8-15.1-38.2-15.1c-21.9,0-38.5,7.4-38.5,17.2c0,0.1,0,0.3,0,0.5c0.1,1,0.2,4.9,0,13.3
+		c0,1.1,0.1,2.1,0.5,3.1c0,0.1,0.1,0.2,0.1,0.3c0.5,1.2,1.2,2.4,2.2,3.5l1.9,3c-0.1,0-0.1,0.1-0.2,0.1L37.2,66.2
+		c-1.1,0.6-1.9,1.8-1.9,3L34.4,128c0,1.1,0.5,2.2,1.5,2.9l23.5,16.8c0.1,0.1,0.2,0.2,0.3,0.2c0.3,0.2,0.6,0.4,0.9,0.6l0.6,0.4
+		c0.4,0.3,0.9,0.5,1.4,0.6c7.5,3.9,18.4,6.2,29.8,6.2c23.6,0,41.4-9.4,41.4-21.8v-7.1C133.8,126,133.8,125.4,133.8,125.3z"/>
+	<ellipse class="st7" cx="93.8" cy="30.7" rx="35.4" ry="13.8"/>
+	<path class="st7" d="M58.4,30.7c0,0,0.3,3.9,0,13.9c-0.2,7.6,15.9,13.8,35.4,13.8s35.4-6.2,35.4-13.8V29.8"/>
+	<ellipse class="st7" cx="93.8" cy="28.8" rx="21.5" ry="8.4"/>
+	<path class="st7" d="M128.7,46.9l-9.1,16.6c-0.2,0.3-0.2,0.7-0.4,1.1c-3.1,5.4-11.7,9.1-24.7,9.1c-13.5,0-21.2-3.6-24.4-9.5
+		L58.7,46.6"/>
+	<path class="st7" d="M122.9,57.4c4.9,3.1,7.8,6.9,7.8,11.1c0,10.2-17.2,18.4-38.4,18.4s-38.4-8.2-38.4-18.4
+		c0-4.9,4.1-9.4,10.7-12.7"/>
+	<path class="st7" d="M130.7,134.5c0,10.2-17.2,18.4-38.4,18.4c-12.8,0-24.3-2.8-31.3-7.4"/>
+	<line class="st7" x1="130.7" y1="134.5" x2="130.7" y2="68.5"/>
+	<path class="st7" d="M60.9,145.5l-23.8-16.9l0.9-59L55.7,80c0,0-2.3-5.1-1.9-11.5"/>
+	<line class="st7" x1="38" y1="69.5" x2="59.2" y2="59"/>
+	<path class="st7" d="M37.6,109.5l18.8,19.1c0,0,17.6,23,48,19.5c26.9-3,26.3-22.3,26.3-22.3"/>
+	<path class="st7" d="M130.6,88.5c0,0-3.1,9.4-18.7,12.1c-15.6,2.7-38,1.9-46.3-2.9c-8.4-4.9-27.6-17.2-27.6-17.2"/>
+</g>
+<g id="zed">
+</g>
+<g id="velodyne">
+</g>
+<g id="ouster">
+</g>
+<g id="duro">
+</g>
+<g id="kvh">
+</g>
+<g id="cont">
+</g>
+</svg>

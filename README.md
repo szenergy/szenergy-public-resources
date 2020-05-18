@@ -22,19 +22,19 @@ This repository is devoted to share data related to the Shell Eco-marathon __Aut
 
 During the project several sensor constellations were tested. [This link](https://github.com/search?q=topic%3Adriver+fork%3Atrue+org%3Aszenergy&type=Repositories) contains the public repositories shared by Szenergy. The latest sensor constellation is visible in the following image. In the top the research-purposed Nissan Leaf, at the bottom the education-purposed Szenergy vehicle is illustrated. This is the current version of the vehicles. 
 
-![img](img/vehicle-sensors.png)
+![img](img/vehicle-sensors.svg)
 
 Follow [this link](https://github.com/search?q=topic%3Adriver+fork%3Atrue+org%3Aszenergy&type=Repositories) to our public drivers.
 
 | Image | Type | Device | External link |
 | --- | --- | --- | --- |
-| ![img](img/sens-duro-150px.png) | GPS | SwiftNav Duro Inertial | [github.com/szenergy/duro_gps_driver](https://github.com/szenergy/duro_gps_driver) | 
-| ![img](img/sens-nova-150px.png) | GPS | NovAtel PW7720E1-DDD-RZN-TBE-P1 | [github.com/szenergy/novatel_gps_driver](https://github.com/szenergy/novatel_gps_driver) |
-| ![img](img/sens-kvhg-150px.png) | GPS | KVH Geo Fog 3D | [github.com/szenergy/kvh_gps_driver](https://github.com/szenergy/kvh_gps_driver) |
-| ![img](img/sens-velo-150px.png) | LIDAR | Velodyne VLP16 Puck | [github.com/szenergy/nissan_leaf_ros](https://github.com/szenergy/nissan_leaf_ros) |
-| ![img](img/sens-oust-150px.png) | LIDAR | Ouster OS1-64, OS1-128  | [github.com/szenergy/ouster_example](https://github.com/szenergy/ouster_example) |
-| ![img](img/sens-sick-150px.png) | LIDAR | Sick LMS111  | [github.com/clearpathrobotics/lms1xx](https://github.com/clearpathrobotics/lms1xx) | 
-| ![img](img/sens-zed1-150px.png) | Camera | Stereolabs ZED | [github.com/stereolabs/zed-ros-wrapper](https://github.com/stereolabs/zed-ros-wrapper) | 
+| ![img](img/sens-duro.svg) | GPS | SwiftNav Duro Inertial | [github.com/szenergy/duro_gps_driver](https://github.com/szenergy/duro_gps_driver) | 
+| ![img](img/sens-nova.svg) | GPS | NovAtel PW7720E1-DDD-RZN-TBE-P1 | [github.com/szenergy/novatel_gps_driver](https://github.com/szenergy/novatel_gps_driver) |
+| ![img](img/sens-kvhg.svg) | GPS | KVH Geo Fog 3D | [github.com/szenergy/kvh_gps_driver](https://github.com/szenergy/kvh_gps_driver) |
+| ![img](img/sens-velo.svg) | LIDAR | Velodyne VLP16 Puck | [github.com/szenergy/nissan_leaf_ros](https://github.com/szenergy/nissan_leaf_ros) |
+| ![img](img/sens-oust.svg) | LIDAR | Ouster OS1-64, OS1-128  | [github.com/szenergy/ouster_example](https://github.com/szenergy/ouster_example) |
+| ![img](img/sens-sick.svg) | LIDAR | Sick LMS111  | [github.com/clearpathrobotics/lms1xx](https://github.com/clearpathrobotics/lms1xx) | 
+| ![img](img/sens-zed1.svg) | Camera | Stereolabs ZED | [github.com/stereolabs/zed-ros-wrapper](https://github.com/stereolabs/zed-ros-wrapper) | 
 | ![img](img/sens-cont-150px.png) | Radar | Continental ARS 408 |  
 
 
@@ -67,5 +67,5 @@ Visit [youtube.com/szenergyteam](https://www.youtube.com/szenergyteam) for more 
 
 - [Towards System-Level Testing with Coverage Guarantees for Autonomous Vehicles](https://ieeexplore.ieee.org/document/8906897) - *István Majzik; Oszkár Semeráth; Csaba Hajdu; Kristóf Marussy; Zoltán Szatmári; Zoltán Micskei; András Vörös; Aren A. Babikian; Dániel Varró* - ACM/IEEE 22nd International Conference on Model Driven Engineering Languages and Systems (MODELS) `2019`, Munich, Germany
 - [Range Sensor-based Occupancy Grid Mapping with Signatures](https://ieeexplore.ieee.org/document/8765684) - *Ernő Horváth; Csaba Hajdu; Claudiu Radu; Áron Ballagi* - 20th International Carpathian Control Conference (ICCC), `2019`, Krakow-Wieliczka, Poland
-- Novel Pure-Pursuit Trajectory Following Approaches and their Practical Applications - *Ernő Horváth, Csaba Hajdu and Peter Kőrös* - 10th IEEE International Conference on InfoCommunications `2019`, Naples, Italy
+- [Novel Pure-Pursuit Trajectory Following Approaches and their Practical Applications](https://ieeexplore.ieee.org/document/9089927) - *Ernő Horváth, Csaba Hajdu and Peter Kőrös* - 10th IEEE International Conference on InfoCommunications `2019`, Naples, Italy
 - [Improve the Accuracy of Neural Networks using Capsule Layers](https://ieeexplore.ieee.org/document/8928194) - *János Hollósi, Claudiu Radu Pozna* - IEEE 18th International Symposium on Computational Intelligence and Informatics (CINTI), `2018`, Budapest, Hungary
