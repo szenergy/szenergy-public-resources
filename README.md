@@ -26,7 +26,7 @@ During the project several sensor constellations were tested. [This link](https:
 
 Follow [this link](https://github.com/search?q=topic%3Adriver+fork%3Atrue+org%3Aszenergy&type=Repositories) to our public drivers.
 
-| Image | Type | Device | External link |
+| Image <img width=150/> | Type | Device | External link |
 | --- | --- | --- | --- |
 | ![img](img/sens-duro.svg) | GPS | SwiftNav Duro Inertial | [github.com/szenergy/duro_gps_driver](https://github.com/szenergy/duro_gps_driver) | 
 | ![img](img/sens-nova.svg) | GPS | NovAtel PW7720E1-DDD-RZN-TBE-P1 | [github.com/szenergy/novatel_gps_driver](https://github.com/szenergy/novatel_gps_driver) |
