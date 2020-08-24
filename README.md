@@ -61,6 +61,7 @@ Visit [youtube.com/szenergyteam](https://www.youtube.com/szenergyteam) for more 
 | Explanatory video about the autonomous model vehicle (2018)  | [youtu.be/zWccR52v7JU](https://www.youtube.com/watch?v=zWccR52v7JU)  | ![vl](img/vid-model-2018-small.png)  |
 | Autonomous obstacle avoidance with Nissan Leaf  | [youtu.be/inBcf-J6LSM](https://www.youtube.com/watch?v=inBcf-J6LSM)  | ![vl](img/vid-leaf01-small.png)  |
 | LIDAR test measurements before Shell Eco-marathon Autonomous UrbanConcept | [youtu.be/LldFZQLgEfA](https://www.youtube.com/watch?v=LldFZQLgEfA)  | ![vl](img/vid-shell-2019-small.png)  |
+| Shell Eco-marathon Autonomous UrbanConcept Simulations (Gazebo)| [youtu.be/RhMySTGztgU](https://www.youtube.com/watch?v=RhMySTGztgU)  | ![vl](img/vid-simulation-2020-small.png)  |
 
 
 ## Papers
