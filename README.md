@@ -35,12 +35,12 @@ Follow [this link](https://github.com/search?q=topic%3Adriver+fork%3Atrue+org%3A
 | ![img](img/sens-oust.svg) | LIDAR | Ouster OS1-64, OS1-128  | [github.com/szenergy/ouster_example](https://github.com/szenergy/ouster_example) |
 | ![img](img/sens-sick.svg) | LIDAR | Sick LMS111  | [github.com/clearpathrobotics/lms1xx](https://github.com/clearpathrobotics/lms1xx) | 
 | ![img](img/sens-zed1.svg) | Camera | Stereolabs ZED | [github.com/stereolabs/zed-ros-wrapper](https://github.com/stereolabs/zed-ros-wrapper) | 
-| ![img](img/sens-cont.svg) | Radar | Continental ARS 408 |  
+| ![img](img/sens-cont.svg) | Radar | Continental ARS 408 |  [github.com/szenergy/conti_radar_driver](https://github.com/szenergy/conti_radar_driver)
 
 
 ## Simulations
 
-- In this section Gazebo and V-REP simulations will be available.
+- Nissan Leaf ROS and ROS2 compatible lgsvl simulator: [github.com/szenergy/nissanleaf-lgsvl](https://github.com/szenergy/nissanleaf-lgsvl)
 
 ## Algorithms and utilities
 
