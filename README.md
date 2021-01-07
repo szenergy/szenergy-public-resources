@@ -36,6 +36,9 @@ Follow [this link](https://github.com/search?q=topic%3Adriver+fork%3Atrue+org%3A
 | ![img](img/sens-sick.svg) | LIDAR | Sick LMS111  | [github.com/clearpathrobotics/lms1xx](https://github.com/clearpathrobotics/lms1xx) | 
 | ![img](img/sens-zed1.svg) | Camera | Stereolabs ZED | [github.com/stereolabs/zed-ros-wrapper](https://github.com/stereolabs/zed-ros-wrapper) | 
 | ![img](img/sens-cont.svg) | Radar | Continental ARS 408 |  [github.com/szenergy/conti_radar_driver](https://github.com/szenergy/conti_radar_driver)
+| ![img](img/emb-crio.svg) | Embedded controller | NI CompactRIO | [github.com/ni](https://github.com/ni)
+| ![img](img/emb-jetson.svg) | Embedded controller | NVIDIA Jetson | [github.com/NVIDIA-AI-IOT](https://github.com/NVIDIA-AI-IOT)
+| ![img](img/emb-commsignia.svg) | Embedded controller | Commsignia V2X | [github.com/Commsignia](https://github.com/Commsignia)
 
 
 ## Simulations
