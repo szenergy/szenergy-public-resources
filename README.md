@@ -59,7 +59,7 @@ Visit [youtube.com/szenergyteam](https://www.youtube.com/szenergyteam) or [youtu
 
 | Description  | Link  | Image  |
 |-|:-:|:-:|
-| Obstacle avoidance and detection | [youtu.be/vr9agp8W9Oc](https://www.youtube.com/watch?v=oRzH-grBsKY)  | ![vl](img/vid-obsatcle-avoid-small.png)  |
+| Obstacle avoidance and detection | [youtu.be/vr9agp8W9Oc](https://www.youtube.com/watch?v=vr9agp8W9Oc)  | ![vl](img/vid-obsatcle-avoid-small.png)  |
 | Color 3D pointcloud map (digital twin) | [youtu.be/oRzH-grBsKY](https://www.youtube.com/watch?v=oRzH-grBsKY)  | ![vl](img/vid-digital-twin-small.png)  |
 | Visualization of rosbag LIDAR data  | [youtu.be/Y2d54KxOrNI](https://www.youtube.com/watch?v=Y2d54KxOrNI)  | ![vl](img/vid-lidar-data-small.png)  |
 | Pointcloud of the Széchenyi Campus (Győr, Hungary)  | [youtu.be/kTf-VvokQH8](https://www.youtube.com/watch?v=kTf-VvokQH8)  | ![vl](img/pointcloud-small.png) |
