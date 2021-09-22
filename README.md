@@ -59,6 +59,7 @@ Visit [youtube.com/szenergyteam](https://www.youtube.com/szenergyteam) or [youtu
 
 | Description  | Link  | Image  |
 |-|:-:|:-:|
+| Obstacle avoidance and detection | [youtu.be/vr9agp8W9Oc](https://www.youtube.com/watch?v=oRzH-grBsKY)  | ![vl](img/vid-obsatcle-avoid-small.png)  |
 | Color 3D pointcloud map (digital twin) | [youtu.be/oRzH-grBsKY](https://www.youtube.com/watch?v=oRzH-grBsKY)  | ![vl](img/vid-digital-twin-small.png)  |
 | Visualization of rosbag LIDAR data  | [youtu.be/Y2d54KxOrNI](https://www.youtube.com/watch?v=Y2d54KxOrNI)  | ![vl](img/vid-lidar-data-small.png)  |
 | Pointcloud of the Széchenyi Campus (Győr, Hungary)  | [youtu.be/kTf-VvokQH8](https://www.youtube.com/watch?v=kTf-VvokQH8)  | ![vl](img/pointcloud-small.png) |
@@ -69,9 +70,7 @@ Visit [youtube.com/szenergyteam](https://www.youtube.com/szenergyteam) or [youtu
 
 ## Papers
 
-
-
-
+- [Implementation of a self-developed Model Predictive Control Scheme for Vehicle Parking Maneuvers](https://www.researchgate.net/publication/354696945_Implementation_of_a_self-developed_model_predictive_control_scheme_for_vehicle_parking_maneuvers) - *Gergő Ignéczi, Ernő Horváth, Dániel Pup*  - The 1st ISTRC Annual Conference, [PDF](https://arxiv.org/ftp/arxiv/papers/2109/2109.10075.pdf) `2021`, Tel Aviv, Israel
 - [Clothoid-based Trajectory Following Approach for Self-driving vehicles](https://ieeexplore.ieee.org/document/9378664) - *Ernő Horváth, Claudiu Radu Pozna* - IEEE 19th World Symposium on Applied Machine Intelligence and Informatics (SAMI), `2021`, Herl'any, Slovakia, Virtual
 - [Development of Point-cloud Processing Algorithm for Self-Driving Challenges](https://ieeexplore.ieee.org/document/9147201) - *Miklós Unger, Ernő Horváth, Péter Kőrös* - IEEE International Conference on Intelligent Engineering Systems (INES), `2020`, Reykjavík, Iceland, Virtual
 - [Self-Driving Vehicle Sensors from One-Seated Experimental to Road-legal Vehicle](https://ieeexplore.ieee.org/document/9147181) - *Péter Kőrös, Gábor Szakállas, Péter Gulyás, Zoltán Pusztai, Zoltán Szeli, Ernő Horváth* - IEEE International Conference on Intelligent Engineering Systems (INES), `2020`, Reykjavík, Iceland, Virtual
