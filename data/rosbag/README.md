@@ -2,6 +2,19 @@
 
 ## Nissan Leaf
 
+
+### `leaf-2022-03-18-gyor.bag`
+
+Size: `2.12 GB` | [Go to details](details/leaf-2022-03-18-gyor.md)
+
+[Download from here](https://laesze-my.sharepoint.com/:u:/g/personal/herno_o365_sze_hu/EVlk6YgDtj9BrzIE8djt-rwBZ47q9NwcbgxU_zOuBji9IA?download=1) or get it with `wget`:
+
+```
+wget https://laesze-my.sharepoint.com/:u:/g/personal/herno_o365_sze_hu/EVlk6YgDtj9BrzIE8djt-rwBZ47q9NwcbgxU_zOuBji9IA?download=1 -O leaf-2022-03-18-gyor.bag
+```
+
+<img src="img/leaf-2022-03-18-gyor.png" />
+
 ### `leaf-2021-04-23-campus.bag`
 
 Size: `3.37 GB` | [Go to details](details/leaf-2021-04-23-campus.md)

@@ -14,7 +14,7 @@ This repository is devoted to share data related to the Shell Eco-marathon __Aut
 ## Datasets
 
 - The data is available: 
-  ### [www.sze.hu/~herno/PublicDataAutonomous](http://www.sze.hu/~herno/PublicDataAutonomous/)
+  ### [jkk-research.github.io/#dataset](https://jkk-research.github.io/#dataset)
 
 - The log data is in `.bag` format, the standard logging format for ROS and it can be also imported to MATLAB. The postprocessed 3d pointcloud data is in `.pcd` (Point Cloud Data) file format, it is a common format used inside Point Cloud Library (PCL). Also this can be imported easily to MATLAB. 
 
