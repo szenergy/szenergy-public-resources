@@ -71,6 +71,7 @@ Visit [youtube.com/szenergyteam](https://www.youtube.com/szenergyteam) or [youtu
 
 ## Papers
 
+- [A Clothoid-based Local Trajectory Planner with Extended Kalman Filter](https://ieeexplore.ieee.org/document/9780857) - *Gergő Ignéczi, Ernő Horváth*  - IEEE 20th Jubilee World Symposium on Applied Machine Intelligence and Informatics (SAMI) `2022`, Poprad, Slovakia
 - [Hybrid Particle Filter-Particle Swarm Optimization Algorithm and Application to Fuzzy Controlled Servo Systems](https://ieeexplore.ieee.org/document/9697415) - *Claudiu Pozna, Radu-Emil Precup, Ernő Horváth, Emil M. Petriu* - IEEE Transactions on Fuzzy Systems, `2022`
 - [Real-Time LIDAR-Based Urban Road and Sidewalk Detection for Autonomous Vehicles](https://doi.org/10.3390/s22010194) - *Ernő Horváth,Claudiu Radu Pozna, Miklós Unger* -  Sensors, vol. 22, no. 1, p. 194, `2022`
 - [Implementation of a self-developed Model Predictive Control Scheme for Vehicle Parking Maneuvers](https://www.researchgate.net/publication/354696945_Implementation_of_a_self-developed_model_predictive_control_scheme_for_vehicle_parking_maneuvers) - *Gergő Ignéczi, Ernő Horváth, Dániel Pup*  - The 1st ISTRC Annual Conference, [PDF](https://arxiv.org/ftp/arxiv/papers/2109/2109.10075.pdf) `2021`, Tel Aviv, Israel
